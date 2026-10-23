@@ -10,6 +10,8 @@
 
 Мне важно, чтобы вывод можно было проверить по источнику, сложный интерфейс был понятен, а пользователь сохранял контроль. Этот подход можно увидеть в TRACE, JobFlow, Ask.Monolit, гостиничном кейсе и проекте про Босха.
 
+В портфолио есть сервисный кейс на основе моей **дипломной работы НИУ ВШЭ 2024 года по бизнес-информатике**, а также самостоятельные AI-, аналитические и культурные проекты.
+
 ## Избранные проекты
 
 Начни с **TRACE**, если интересна работа с пользовательскими исследованиями, или с **Hotel Guest Experience**, чтобы посмотреть полный путь от сервисной проблемы до требований и интерактивного продукта.
@@ -23,7 +25,7 @@
 | [![AI Product Growth Lab — Meaningful retention without losing sight of unit economics.](assets/growth.svg)](https://alyalbina.github.io/ai-product-growth-lab/) | [![Inside Bosch — An art experience built around close looking and open questions.](assets/bosch.svg)](https://alyalbina.github.io/inside-bosch/portfolio/index.en.html) |
 | :--- | :--- |
 | Воспроизводимая симуляция AI-кредитов, SQL/Python-аналитика и дизайн эксперимента. Отдельно — исследование на реальных данных UCI. | Двуязычный опыт исследования картины: Deep Zoom, маршруты открытия деталей и личный дневник. Концепция, продуктовая и визуальная работа. |
-| [Кейс](https://alyalbina.github.io/ai-product-growth-lab/) · [Демо](https://alyalbina-ai-growth-lab.streamlit.app/) · [Репозиторий](https://github.com/alyalbina/ai-product-growth-lab) | [Кейс](https://alyalbina.github.io/inside-bosch/portfolio/index.en.html) · [Демо](https://alyalbina.github.io/inside-bosch/) · [Репозиторий](https://github.com/alyalbina/inside-bosch) |
+| [Кейс](https://alyalbina.github.io/ai-product-growth-lab/) · [Исследование](https://alyalbina.github.io/ai-product-growth-lab/research.html) · [Репозиторий](https://github.com/alyalbina/ai-product-growth-lab) | [Кейс](https://alyalbina.github.io/inside-bosch/portfolio/index.en.html) · [Демо](https://alyalbina.github.io/inside-bosch/) · [Репозиторий](https://github.com/alyalbina/inside-bosch) |
 
 | [![JobFlow AI — Job discovery, matching and tracking with the candidate in control.](assets/jobflow.svg)](https://alyalbina.github.io/jobflow-ai/case-study.html) | [![Ask.Monolit — Research workflows with explicit states and source inspection.](assets/monolit.svg)](https://github.com/alyalbina/monolit#what-is-implemented) |
 | :--- | :--- |

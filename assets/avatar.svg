@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
+<title id="title">Albina Urubkina — AU monogram</title>
+<desc id="desc">Cream initials on forest green, with a lavender geometric accent.</desc>
+<rect width="1024" height="1024" fill="#27342F"/>
+<circle cx="935" cy="82" r="330" fill="#C3B2DF"/>
+<circle cx="935" cy="82" r="255" fill="#DAD0E8"/>
+<path d="M109 801H911" stroke="#6E8176" stroke-width="3"/>
+<text x="492" y="650" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="375" font-weight="600" letter-spacing="-20" fill="#F6F4EE">AU</text>
+<circle cx="151" cy="801" r="10" fill="#D4B38F"/>
+</svg>
