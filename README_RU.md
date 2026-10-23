@@ -17,20 +17,44 @@
 Начни с **TRACE**, если интересна работа с пользовательскими исследованиями, или с **Hotel Guest Experience**, чтобы посмотреть полный путь от сервисной проблемы до требований и интерактивного продукта.
 
 
-| [![TRACE — From interview evidence to reviewed product opportunities.](assets/trace.svg)](https://github.com/alyalbina/trace-research-copilot/blob/main/docs/portfolio-case-study.md) | [![Hotel Guest Experience — A complete service journey, from guest request to resolution.](assets/hotel.svg)](https://alyalbina.github.io/hotel-guest-experience-platform/case-study/) |
-| :--- | :--- |
-| Рабочее пространство для исследований: от точной цитаты и проверенного вывода до продуктовой возможности. Доступен локальный деморежим. | Сервисный дизайн на основе дипломной работы: исследования, требования и реконструированный процесс обработки заявок. Есть интерактивное демо и атлас исследований. |
-| [Кейс](https://github.com/alyalbina/trace-research-copilot/blob/main/docs/portfolio-case-study.md) · [Репозиторий](https://github.com/alyalbina/trace-research-copilot) | [Кейс](https://alyalbina.github.io/hotel-guest-experience-platform/case-study/) · [Демо](https://alyalbina.github.io/hotel-guest-experience-platform/demo/) · [Репозиторий](https://github.com/alyalbina/hotel-guest-experience-platform) |
-
-| [![AI Product Growth Lab — Meaningful retention without losing sight of unit economics.](assets/growth.svg)](https://alyalbina.github.io/ai-product-growth-lab/) | [![Inside Bosch — An art experience built around close looking and open questions.](assets/bosch.svg)](https://alyalbina.github.io/inside-bosch/portfolio/index.en.html) |
-| :--- | :--- |
-| Воспроизводимая симуляция AI-кредитов, SQL/Python-аналитика и дизайн эксперимента. Отдельно — исследование на реальных данных UCI. | Двуязычный опыт исследования картины: Deep Zoom, маршруты открытия деталей и личный дневник. Концепция, продуктовая и визуальная работа. |
-| [Кейс](https://alyalbina.github.io/ai-product-growth-lab/) · [Исследование](https://alyalbina.github.io/ai-product-growth-lab/research.html) · [Репозиторий](https://github.com/alyalbina/ai-product-growth-lab) | [Кейс](https://alyalbina.github.io/inside-bosch/portfolio/index.en.html) · [Демо](https://alyalbina.github.io/inside-bosch/) · [Репозиторий](https://github.com/alyalbina/inside-bosch) |
-
-| [![JobFlow AI — Job discovery, matching and tracking with the candidate in control.](assets/jobflow.svg)](https://alyalbina.github.io/jobflow-ai/case-study.html) | [![Ask.Monolit — Research workflows with explicit states and source inspection.](assets/monolit.svg)](https://github.com/alyalbina/monolit#what-is-implemented) |
-| :--- | :--- |
-| Поиск вакансий в Telegram, объяснимое сопоставление с резюме и учёт откликов. Локальное приложение и публичный демостенд с вымышленными данными. | Frontend-прототип исследовательского продукта: воспроизводимые демосценарии, адаптивные потоки и явные состояния результата. |
-| [Кейс](https://alyalbina.github.io/jobflow-ai/case-study.html) · [Демо](https://alyalbina.github.io/jobflow-ai/) · [Репозиторий](https://github.com/alyalbina/jobflow-ai) | [Кейс](https://github.com/alyalbina/monolit#what-is-implemented) · [Репозиторий](https://github.com/alyalbina/monolit) |
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/alyalbina/trace-research-copilot/blob/main/docs/portfolio-case-study.md"><img src="assets/trace.svg" width="720" alt="TRACE — From interview evidence to reviewed product opportunities."></a>
+<p>Рабочее пространство для исследований: от точной цитаты и проверенного вывода до продуктовой возможности. Доступен локальный деморежим.</p>
+<p><a href="https://github.com/alyalbina/trace-research-copilot/blob/main/docs/portfolio-case-study.md">Кейс</a> · <a href="https://github.com/alyalbina/trace-research-copilot">Репозиторий</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://alyalbina.github.io/hotel-guest-experience-platform/case-study/"><img src="assets/hotel.svg" width="720" alt="Hotel Guest Experience — A complete service journey, from guest request to resolution."></a>
+<p>Сервисный дизайн на основе дипломной работы: исследования, требования и реконструированный процесс обработки заявок. Есть интерактивное демо и атлас исследований.</p>
+<p><a href="https://alyalbina.github.io/hotel-guest-experience-platform/case-study/">Кейс</a> · <a href="https://alyalbina.github.io/hotel-guest-experience-platform/demo/">Демо</a> · <a href="https://github.com/alyalbina/hotel-guest-experience-platform">Репозиторий</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://alyalbina.github.io/ai-product-growth-lab/"><img src="assets/growth.svg" width="720" alt="AI Product Growth Lab — Meaningful retention without losing sight of unit economics."></a>
+<p>Воспроизводимая симуляция AI-кредитов, SQL/Python-аналитика и дизайн эксперимента. Отдельно — исследование на реальных данных UCI.</p>
+<p><a href="https://alyalbina.github.io/ai-product-growth-lab/">Кейс</a> · <a href="https://alyalbina.github.io/ai-product-growth-lab/research.html">Исследование</a> · <a href="https://github.com/alyalbina/ai-product-growth-lab">Репозиторий</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://alyalbina.github.io/inside-bosch/portfolio/index.en.html"><img src="assets/bosch.svg" width="720" alt="Inside Bosch — An art experience built around close looking and open questions."></a>
+<p>Двуязычный опыт исследования картины: Deep Zoom, маршруты открытия деталей и личный дневник. Концепция, продуктовая и визуальная работа.</p>
+<p><a href="https://alyalbina.github.io/inside-bosch/portfolio/index.en.html">Кейс</a> · <a href="https://alyalbina.github.io/inside-bosch/">Демо</a> · <a href="https://github.com/alyalbina/inside-bosch">Репозиторий</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://alyalbina.github.io/jobflow-ai/case-study.html"><img src="assets/jobflow.svg" width="720" alt="JobFlow AI — Job discovery, matching and tracking with the candidate in control."></a>
+<p>Поиск вакансий в Telegram, объяснимое сопоставление с резюме и учёт откликов. Локальное приложение и публичный демостенд с вымышленными данными.</p>
+<p><a href="https://alyalbina.github.io/jobflow-ai/case-study.html">Кейс</a> · <a href="https://alyalbina.github.io/jobflow-ai/">Демо</a> · <a href="https://github.com/alyalbina/jobflow-ai">Репозиторий</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/alyalbina/monolit#what-is-implemented"><img src="assets/monolit.svg" width="720" alt="Ask.Monolit — Research workflows with explicit states and source inspection."></a>
+<p>Frontend-прототип исследовательского продукта: воспроизводимые демосценарии, адаптивные потоки и явные состояния результата.</p>
+<p><a href="https://github.com/alyalbina/monolit#what-is-implemented">Кейс</a> · <a href="https://github.com/alyalbina/monolit">Репозиторий</a></p>
+</td>
+</tr>
+</table>
 
 ## Как я работаю
 

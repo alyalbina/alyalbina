@@ -19,20 +19,44 @@ My portfolio includes a service-design case developed from my **2024 HSE Univers
 Six projects, six ways to inspect my product thinking. Start with **TRACE** for research workflows or **Hotel Guest Experience** for discovery, service design and requirements.
 
 
-| [![TRACE — From interview evidence to reviewed product opportunities.](assets/trace.svg)](https://github.com/alyalbina/trace-research-copilot/blob/main/docs/portfolio-case-study.md) | [![Hotel Guest Experience — A complete service journey, from guest request to resolution.](assets/hotel.svg)](https://alyalbina.github.io/hotel-guest-experience-platform/case-study/) |
-| :--- | :--- |
-| A research workspace linking exact quotes, reviewed insights and product opportunities. Working local demo; AI synthesis is a planned extension. | Thesis-based service design, requirements and a reconstructed staff-and-guest workflow. Includes an interactive demo and a research atlas. |
-| [Case study](https://github.com/alyalbina/trace-research-copilot/blob/main/docs/portfolio-case-study.md) · [Source](https://github.com/alyalbina/trace-research-copilot) | [Case study](https://alyalbina.github.io/hotel-guest-experience-platform/case-study/) · [Demo](https://alyalbina.github.io/hotel-guest-experience-platform/demo/) · [Source](https://github.com/alyalbina/hotel-guest-experience-platform) |
-
-| [![AI Product Growth Lab — Meaningful retention without losing sight of unit economics.](assets/growth.svg)](https://alyalbina.github.io/ai-product-growth-lab/) | [![Inside Bosch — An art experience built around close looking and open questions.](assets/bosch.svg)](https://alyalbina.github.io/inside-bosch/portfolio/index.en.html) |
-| :--- | :--- |
-| A reproducible AI-credit simulation, SQL/Python analytics and experiment design, plus a separate real-data UCI study. | A bilingual art experience with Deep Zoom, guided discovery and a personal journal. Concept, product direction and visual design. |
-| [Case study](https://alyalbina.github.io/ai-product-growth-lab/) · [Interactive report](https://alyalbina.github.io/ai-product-growth-lab/research.html) · [Source](https://github.com/alyalbina/ai-product-growth-lab) | [Case study](https://alyalbina.github.io/inside-bosch/portfolio/index.en.html) · [Demo](https://alyalbina.github.io/inside-bosch/) · [Source](https://github.com/alyalbina/inside-bosch) |
-
-| [![JobFlow AI — Job discovery, matching and tracking with the candidate in control.](assets/jobflow.svg)](https://alyalbina.github.io/jobflow-ai/case-study.html) | [![Ask.Monolit — Research workflows with explicit states and source inspection.](assets/monolit.svg)](https://github.com/alyalbina/monolit#what-is-implemented) |
-| :--- | :--- |
-| Telegram job discovery, explainable matching and an application workflow. A private local app with a public fictional-data sandbox. | A research-product frontend prototype with a deterministic demo adapter, responsive workflows and explicit result states. |
-| [Case study](https://alyalbina.github.io/jobflow-ai/case-study.html) · [Demo](https://alyalbina.github.io/jobflow-ai/) · [Source](https://github.com/alyalbina/jobflow-ai) | [Case study](https://github.com/alyalbina/monolit#what-is-implemented) · [Source](https://github.com/alyalbina/monolit) |
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/alyalbina/trace-research-copilot/blob/main/docs/portfolio-case-study.md"><img src="assets/trace.svg" width="720" alt="TRACE — From interview evidence to reviewed product opportunities."></a>
+<p>A research workspace linking exact quotes, reviewed insights and product opportunities. Working local demo; AI synthesis is a planned extension.</p>
+<p><a href="https://github.com/alyalbina/trace-research-copilot/blob/main/docs/portfolio-case-study.md">Case study</a> · <a href="https://github.com/alyalbina/trace-research-copilot">Source</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://alyalbina.github.io/hotel-guest-experience-platform/case-study/"><img src="assets/hotel.svg" width="720" alt="Hotel Guest Experience — A complete service journey, from guest request to resolution."></a>
+<p>Thesis-based service design, requirements and a reconstructed staff-and-guest workflow. Includes an interactive demo and a research atlas.</p>
+<p><a href="https://alyalbina.github.io/hotel-guest-experience-platform/case-study/">Case study</a> · <a href="https://alyalbina.github.io/hotel-guest-experience-platform/demo/">Demo</a> · <a href="https://github.com/alyalbina/hotel-guest-experience-platform">Source</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://alyalbina.github.io/ai-product-growth-lab/"><img src="assets/growth.svg" width="720" alt="AI Product Growth Lab — Meaningful retention without losing sight of unit economics."></a>
+<p>A reproducible AI-credit simulation, SQL/Python analytics and experiment design, plus a separate real-data UCI study.</p>
+<p><a href="https://alyalbina.github.io/ai-product-growth-lab/">Case study</a> · <a href="https://alyalbina.github.io/ai-product-growth-lab/research.html">Interactive report</a> · <a href="https://github.com/alyalbina/ai-product-growth-lab">Source</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://alyalbina.github.io/inside-bosch/portfolio/index.en.html"><img src="assets/bosch.svg" width="720" alt="Inside Bosch — An art experience built around close looking and open questions."></a>
+<p>A bilingual art experience with Deep Zoom, guided discovery and a personal journal. Concept, product direction and visual design.</p>
+<p><a href="https://alyalbina.github.io/inside-bosch/portfolio/index.en.html">Case study</a> · <a href="https://alyalbina.github.io/inside-bosch/">Demo</a> · <a href="https://github.com/alyalbina/inside-bosch">Source</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://alyalbina.github.io/jobflow-ai/case-study.html"><img src="assets/jobflow.svg" width="720" alt="JobFlow AI — Job discovery, matching and tracking with the candidate in control."></a>
+<p>Telegram job discovery, explainable matching and an application workflow. A private local app with a public fictional-data sandbox.</p>
+<p><a href="https://alyalbina.github.io/jobflow-ai/case-study.html">Case study</a> · <a href="https://alyalbina.github.io/jobflow-ai/">Demo</a> · <a href="https://github.com/alyalbina/jobflow-ai">Source</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/alyalbina/monolit#what-is-implemented"><img src="assets/monolit.svg" width="720" alt="Ask.Monolit — Research workflows with explicit states and source inspection."></a>
+<p>A research-product frontend prototype with a deterministic demo adapter, responsive workflows and explicit result states.</p>
+<p><a href="https://github.com/alyalbina/monolit#what-is-implemented">Case study</a> · <a href="https://github.com/alyalbina/monolit">Source</a></p>
+</td>
+</tr>
+</table>
 
 ## How I work
 
