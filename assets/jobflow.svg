@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="306" viewBox="0 0 720 306" role="img" aria-labelledby="title desc">
+<title id="title">JobFlow AI</title><desc id="desc">Job discovery, matching and tracking with the candidate in control.</desc>
+<rect x="1" y="1" width="718" height="304" rx="18" fill="#EAF0E8" stroke="#D9DBD5"/>
+<text x="34" y="39" fill="#4E6E50" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" letter-spacing="1.8">05 / HUMAN-REVIEWED AUTOMATION</text>
+<circle cx="666" cy="41" r="15" fill="#4E6E50"/>
+<path d="M660 47l12-12m-10 0h10v10" stroke="#FFFFFF" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="31" y="123" fill="#27312C" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="600" letter-spacing="-1.5">JobFlow AI</text>
+<text x="34" y="174" fill="#54615A" font-family="Arial, Helvetica, sans-serif" font-size="24">Job discovery, matching and tracking</text>
+<text x="34" y="208" fill="#54615A" font-family="Arial, Helvetica, sans-serif" font-size="24">with the candidate in control.</text>
+<path d="M34 244H686" stroke="#4E6E50" stroke-opacity=".23"/>
+<text x="34" y="276" fill="#4E6E50" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" letter-spacing=".6">PRODUCT LOGIC · EXPLAINABLE MATCHING · PRIVACY</text>
+</svg>

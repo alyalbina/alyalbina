@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="430" viewBox="0 0 1440 430" role="img" aria-labelledby="title desc">
+<title id="title">Albina Urubkina — Product portfolio</title>
+<desc id="desc">Product discovery, UX research and analytics. Good questions. Clearer products.</desc>
+<rect width="1440" height="430" rx="28" fill="#F6F4EE"/>
+<path d="M64 74H958" stroke="#D5D1C8"/>
+<text x="64" y="55" fill="#65675F" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="600" letter-spacing="4">PRODUCT / RESEARCH / AI</text>
+<text x="60" y="185" fill="#242B29" font-family="Arial, Helvetica, sans-serif" font-size="88" font-weight="600" letter-spacing="-4">Albina Urubkina</text>
+<text x="64" y="250" fill="#4F5851" font-family="Arial, Helvetica, sans-serif" font-size="39" letter-spacing="-1">Good questions. Clearer products.</text>
+<rect x="64" y="316" width="270" height="48" rx="24" fill="#E8E1F4"/>
+<text x="199" y="347" text-anchor="middle" fill="#504064" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="600">Product portfolio</text>
+<text x="362" y="346" fill="#65675F" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="1">DISCOVERY · UX · ANALYTICS</text>
+<rect x="1030" y="56" width="346" height="318" rx="24" fill="#27342F"/>
+<circle cx="1203" cy="181" r="91" fill="#C3B2DF"/>
+<path d="M1112 181a91 91 0 0 1 182 0Z" fill="#DED5EB"/>
+<rect x="1103" y="177" width="200" height="94" rx="15" fill="#F8F6EF"/>
+<path d="M1129 207H1239M1129 228H1203" stroke="#68786F" stroke-width="6" stroke-linecap="round"/>
+<circle cx="1281" cy="245" r="19" fill="#D4B38F"/>
+<path d="M1273 245l6 6 10-12" stroke="#27342F" fill="none" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="1203" y="328" text-anchor="middle" fill="#E6EADF" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="1">EVIDENCE → DIRECTION</text>
+</svg>

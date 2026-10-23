@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="306" viewBox="0 0 720 306" role="img" aria-labelledby="title desc">
+<title id="title">Hotel Guest Experience</title><desc id="desc">A complete service journey, from guest request to resolution.</desc>
+<rect x="1" y="1" width="718" height="304" rx="18" fill="#EAF0F3" stroke="#D9DBD5"/>
+<text x="34" y="39" fill="#426A80" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" letter-spacing="1.8">02 / SERVICE DESIGN</text>
+<circle cx="666" cy="41" r="15" fill="#426A80"/>
+<path d="M660 47l12-12m-10 0h10v10" stroke="#FFFFFF" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="31" y="123" fill="#27312C" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="600" letter-spacing="-1.5">Hotel Guest Experience</text>
+<text x="34" y="174" fill="#54615A" font-family="Arial, Helvetica, sans-serif" font-size="24">A complete service journey,</text>
+<text x="34" y="208" fill="#54615A" font-family="Arial, Helvetica, sans-serif" font-size="24">from guest request to resolution.</text>
+<path d="M34 244H686" stroke="#426A80" stroke-opacity=".23"/>
+<text x="34" y="276" fill="#426A80" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" letter-spacing=".6">DISCOVERY · SERVICE BLUEPRINT · REQUIREMENTS</text>
+</svg>

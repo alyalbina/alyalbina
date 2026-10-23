@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="306" viewBox="0 0 720 306" role="img" aria-labelledby="title desc">
+<title id="title">Inside Bosch</title><desc id="desc">An art experience built around close looking and open questions.</desc>
+<rect x="1" y="1" width="718" height="304" rx="18" fill="#F2E9E5" stroke="#D9DBD5"/>
+<text x="34" y="39" fill="#855245" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" letter-spacing="1.8">04 / PRODUCT &amp; EXPERIENCE DESIGN</text>
+<circle cx="666" cy="41" r="15" fill="#855245"/>
+<path d="M660 47l12-12m-10 0h10v10" stroke="#FFFFFF" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="31" y="123" fill="#27312C" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="600" letter-spacing="-1.5">Inside Bosch</text>
+<text x="34" y="174" fill="#54615A" font-family="Arial, Helvetica, sans-serif" font-size="24">An art experience built around</text>
+<text x="34" y="208" fill="#54615A" font-family="Arial, Helvetica, sans-serif" font-size="24">close looking and open questions.</text>
+<path d="M34 244H686" stroke="#855245" stroke-opacity=".23"/>
+<text x="34" y="276" fill="#855245" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" letter-spacing=".6">EXPERIENCE DESIGN · VISUAL DIRECTION · RU/EN</text>
+</svg>
